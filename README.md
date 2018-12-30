@@ -15,3 +15,6 @@ first setup environment variables before running the script:
 Then `python3 AlbumArtWallpaper.py 'your username on spotify'`
 
 You can change the frequency by changing value of `interval` in the script.
+# Requirement:
+
+Need [Spotipy](https://github.com/plamere/spotipy)
