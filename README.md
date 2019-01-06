@@ -1,5 +1,6 @@
 # AlbumartWallpaper
-Simple python script to change your desktop background periodically by album arts of saved songs from your Spotify library.
+Set album art of currently playing song on spotify as your Desktop Wallpaper.
+
 # Usage:
 
 First open a developer aaccount on Spotify. Create a new project, then get client-id and secret. In settings menu of your project add a redirect-uri (http://localhost/callback can also be used). 
@@ -9,3 +10,6 @@ Then `python3 AlbumArtWallpaper.py`
 # Requirement:
 
 Need [Spotipy](https://github.com/plamere/spotipy)
+
+# Limitations:
+Works for a linux system running gnome 3+, however, the code can be changed accordingly. 
