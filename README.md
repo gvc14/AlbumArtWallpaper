@@ -9,7 +9,7 @@ Then `python3 AlbumArtWallpaper.py`
 
 # Requirement:
 
-Need [Spotipy](https://github.com/plamere/spotipy)
+Needs [Spotipy](https://github.com/plamere/spotipy)
 
 # Limitations:
 Works for a linux system running gnome 3+, however, the code can be changed accordingly. 
