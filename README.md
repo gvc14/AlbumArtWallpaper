@@ -1,4 +1,4 @@
-# AlbumartWallpaper
+# AlbumArtWallpaper
 Set album art of currently playing song on spotify as your Desktop Wallpaper.
 
 # Usage:
